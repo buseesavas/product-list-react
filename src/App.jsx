@@ -7,7 +7,7 @@ const data = [
     title: 'Waffle',
     name: 'Waffle with Berries',
     price: 6.50,
-    image: 'public/waffle-img.svg',
+    image: 'waffle-img.svg',
     quantity: 0,
   },
   {
