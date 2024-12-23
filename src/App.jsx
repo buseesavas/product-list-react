@@ -15,7 +15,7 @@ const data = [
     title: 'Crème Brûlée',
     name: 'Vanilla Bean Crème Brûlée',
     price: 7.00,
-    image: 'public/vanilla-bean-img.svg',
+    image: 'vanilla-bean-img.svg',
     quantity: 0,
   },
   {
@@ -23,7 +23,7 @@ const data = [
     title: 'Macaron',
     name: 'Macaron Mix of Five',
     price: 8.00,
-    image: 'public/macaron-img.svg',
+    image: 'macaron-img.svg',
     quantity: 0,
   },
   {
@@ -31,7 +31,7 @@ const data = [
     title: 'Tiramisu',
     name: 'Classic Tiramisu',
     price: 5.50,
-    image: 'public/tiramisu-img.svg',
+    image: 'tiramisu-img.svg',
     quantity: 0,
   },
   {
@@ -39,7 +39,7 @@ const data = [
     title: 'Baklava',
     name: 'Pistachio Baklava',
     price: 4.00,
-    image: 'public/baklava-img.svg',
+    image: 'baklava-img.svg',
     quantity: 0,
   },
   {
@@ -47,7 +47,7 @@ const data = [
     title: 'Pie',
     name: 'Lemon Meringue Pie',
     price: 5.00,
-    image: 'public/lemon-img.svg',
+    image: 'lemon-img.svg',
     quantity: 0,
   },
   {
@@ -55,7 +55,7 @@ const data = [
     title: 'Cake',
     name: 'Red Velvet Cake',
     price: 4.50,
-    image: 'public/red-velvet-img.svg',
+    image: 'red-velvet-img.svg',
     quantity: 0,
   },
   {
@@ -63,7 +63,7 @@ const data = [
     title: 'Brownie',
     name: 'Salted Caramel Brownie',
     price: 5.50,
-    image: 'public/brownie-img.svg',
+    image: 'brownie-img.svg',
     quantity: 0,
   },
   {
@@ -71,7 +71,7 @@ const data = [
     title: 'Panna Cotta',
     name: 'Vanilla Panna Cotta',
     price: 6.50,
-    image: 'public/panna-cotta-img.svg',
+    image: 'panna-cotta-img.svg',
     quantity: 0,
   },
 ];
